@@ -1,0 +1,58 @@
+#headline{
+    background-color: rgb(18, 149, 189);  
+}
+#headline1{
+    color: white;
+    height: 15px;
+}
+#price{
+    background-color: #999;
+}
+#priceid1{
+    color:rgb(102, 82, 82);
+   font-size: 14px;
+    font-family: "宋体"
+}
+#price11{
+    text-decoration: line-through;
+}
+#priceid2
+{ color:red;
+   font-size: 14px;
+    font-family: "宋体"
+}
+#price22{
+    color:red;
+}
+#post{
+    color:#999;
+    font-family: "宋体"
+    }
+#message{
+        font-size:5px;                                 
+}
+#border{
+    border:1px dotted red;
+    border-left: 0;
+    border-right: 0;
+    padding:2px 30px 2px;
+    font-size: 15px;
+    margin: 5px 20px 5px;
+    position: relative;
+    display:flex;
+}
+#border1{
+    border-left: 1px solid  #e5dfda;
+}
+#style1{
+    border: 1px solid #e2e1e3;
+    color: black;
+    overflow: hidden;
+    padding:0 10px 0 10px;
+    font-size: 15px;
+}
+#main{
+    width:400px;
+    height:400px;
+    border:solid 1px black;
+}
